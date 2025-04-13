@@ -62,6 +62,9 @@
                                             <a href="#">San Francisco</a>
                                                    <li>
                                                    <li>
+                                            <a href="#">New York 2</a>
+                                                   <li>
+                                                   <li>
                                             <a href="#">New York</a>
                                                    <li>
                                                    <li>
